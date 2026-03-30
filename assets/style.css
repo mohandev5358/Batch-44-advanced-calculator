@@ -5,12 +5,14 @@
 }
 
 body {
-    background: #f4f6f9;
+    background-image: url('img/calci.png');
+    background-size: cover;
+    background-position: center
 }
 
 .calculator {
     max-width: 350px;
-    margin: 60px auto;
+    margin: 20px auto;
     border-radius: 15px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
     background: #fff;
